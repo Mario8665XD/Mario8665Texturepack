@@ -1,0 +1,44 @@
+{
+ "parent": "minecraft:block/glass",
+"textures": {
+  "layer0": "item/glass"
+ },
+ 
+ "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "block/custom/phonebooth"},
+  {"predicate": {"custom_model_data":2}, "model": "block/custom/Cone"},
+  {"predicate": {"custom_model_data":3}, "model": "block/custom/Bench"},
+  {"predicate": {"custom_model_data":4}, "model": "block/custom/3ds"},
+  {"predicate": {"custom_model_data":5}, "model": "block/custom/coffin"},
+  {"predicate": {"custom_model_data":6}, "model": "block/custom/phoneboothblue"},
+  {"predicate": {"custom_model_data":7}, "model": "block/custom/Arcadeyellow"},
+  {"predicate": {"custom_model_data":8}, "model": "block/custom/racoon"},
+  {"predicate": {"custom_model_data":9}, "model": "block/custom/chair"},
+  {"predicate": {"custom_model_data":10}, "model": "block/custom/dumpster"},
+  {"predicate": {"custom_model_data":11}, "model": "block/custom/lamp"},
+  {"predicate": {"custom_model_data":12}, "model": "block/custom/stopsign"},
+  {"predicate": {"custom_model_data":13}, "model": "block/custom/Hydrant"},
+  {"predicate": {"custom_model_data":14}, "model": "block/custom/duckie"},
+  {"predicate": {"custom_model_data":15}, "model": "block/custom/recordplayer"},
+  {"predicate": {"custom_model_data":16}, "model": "block/custom/couch"},
+  {"predicate": {"custom_model_data":17}, "model": "block/custom/bluecouch"},
+  {"predicate": {"custom_model_data":18}, "model": "block/custom/greencouch"},
+  {"predicate": {"custom_model_data":19}, "model": "block/custom/purpcouch"},
+  {"predicate": {"custom_model_data":20}, "model": "block/custom/purpchair"},
+  {"predicate": {"custom_model_data":21}, "model": "block/custom/greenchair"},
+  {"predicate": {"custom_model_data":22}, "model": "block/custom/bluechair"},
+  {"predicate": {"custom_model_data":23}, "model": "block/custom/redcar"},
+  {"predicate": {"custom_model_data":24}, "model": "block/custom/bluecar"},
+  {"predicate": {"custom_model_data":25}, "model": "block/custom/greencar"},
+  {"predicate": {"custom_model_data":26}, "model": "block/custom/purplecar"},
+  {"predicate": {"custom_model_data":27}, "model": "block/custom/trashcan"},
+  {"predicate": {"custom_model_data":28}, "model": "block/custom/tv"},
+  {"predicate": {"custom_model_data":29}, "model": "block/custom/bluearcade"},
+  {"predicate": {"custom_model_data":30}, "model": "block/custom/purparcade"},
+  {"predicate": {"custom_model_data":31}, "model": "block/custom/greenarcade"},
+  {"predicate": {"custom_model_data":32}, "model": "block/custom/bookshelf"},
+  {"predicate": {"custom_model_data":33}, "model": "block/custom/statue"},
+  {"predicate": {"custom_model_data":34}, "model": "block/custom/trashbag"},
+  {"predicate": {"custom_model_data":35}, "model": "block/custom/Microwave"}
+ ]
+}
